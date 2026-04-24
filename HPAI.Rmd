@@ -10,8 +10,6 @@ output:
     code_folding: hide
 ---
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 ```{r chunkopts, eval = TRUE, echo = FALSE}
 knitr::opts_chunk$set(eval = TRUE, echo = TRUE, message = FALSE, warning = FALSE, tidy = FALSE, cache = FALSE, include = TRUE, dpi = 72, fig.width = 9, fig.height = 6, fig.align = "center", results = "markup")
 
